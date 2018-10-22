@@ -24,6 +24,7 @@ nav
 
 nav a
 {
+	margin-top: 0%;
 	text-decoration: none;
 	margin-left : 3%;
 	color : orange;
@@ -76,10 +77,11 @@ nav a
 
 .bottomPage
 {
+	margin-top: 20%;
 	width: 100%;
 	height: 40%;
 	background: #34495e;
-	padding: 0%;
+	padding-top: 5%;
 	position: absolute;
 	color: white;
 	background-position: center center;
@@ -91,6 +93,7 @@ nav a
 	border : 2px solid yellow;
 	border-radius : 10%;
 }
+
 /*===================================================================================*/
 
 /* index.html: IDs and Classes*/
@@ -99,7 +102,8 @@ nav a
   width: 100%;
   color: white;
   background-color: rgba(0,0,0,0.6);
-  padding: 0%;
-	margin: 0 auto;
+  padding-top: 10%;
+	padding-bottom: 3%;
+	margin-top: 0%;
   background-position: center center;
 }
