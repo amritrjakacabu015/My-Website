@@ -16,10 +16,10 @@ nav
 {
 	position : fixed;
 	width : 100%;
-	height : 15%;
+	height : 10%;
 	background-color : rgba(0,0,0,0.7);
 	z-index : 99;
-	font-size : 100%;
+	padding-top: 3%;
 }
 
 nav a
@@ -28,7 +28,6 @@ nav a
 	text-decoration: none;
 	margin-left : 3%;
 	color : orange;
-	line-height : 90px;
 	font-size : 100%;
 }
 
@@ -106,4 +105,18 @@ nav a
 	padding-bottom: 3%;
 	margin-top: 0%;
   background-position: center center;
+}
+
+.Hpbody
+{
+	padding-top: 5%;
+	padding-bottom: 10%;
+	color: orange;
+	width: 100%;
+}
+
+#Hpara
+{
+	padding-left: 7%;
+	font-size: 400%;
 }
